@@ -46,7 +46,7 @@ To run the Inventory Management Dashboard, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/varshith-Git/assignment.git
-    cd inventory-management-dashboard
+    cd assignment
     ```
 
 2. **Install the required packages**:
