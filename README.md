@@ -45,7 +45,7 @@ To run the Inventory Management Dashboard, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your_username/inventory-management-dashboard.git
+    git clone https://github.com/varshith-Git/assignment.git
     cd inventory-management-dashboard
     ```
 
@@ -62,7 +62,7 @@ To run the Inventory Management Dashboard, follow these steps:
 
 4. **Run the Streamlit application**:
     ```bash
-    streamlit run app.py
+    streamlit run display.py
     ```
 
 ## Usage
